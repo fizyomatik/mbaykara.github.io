@@ -12,4 +12,5 @@ body{
    background-color: darkgray;
    color: white;
    text-align: center;
+   opacity: 0.5;
 }
