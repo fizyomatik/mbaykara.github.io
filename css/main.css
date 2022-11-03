@@ -2,7 +2,3 @@ body{
     background-color: rgba(0, 0, 0, 0.6);
     opacity: 0.6;
 }
-.mxgraph:fullscreen{
-     border:1px;
-     text-align: center;
-}
