@@ -4,12 +4,17 @@ body{
     max-width:100%;
     height:auto;
 }
+.resources{
+   position: fixed;
+   left: 0;
+   bottom: 0;
+}
 .footer {
    position: fixed;
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color: darkgray;
+   background-color: rgb(54, 52, 52);
    color: white;
    text-align: center;
    opacity: 0.5;
