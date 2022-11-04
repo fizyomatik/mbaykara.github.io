@@ -3,9 +3,13 @@ body{
     max-width:100%;
     height:auto;
 }
-
+.header {
+  margin: auto;
+  text-shadow: black;
+}
 .endnotes{
     position: relative;
+    margin: auto;
 }
 .footer {
    position: fixed;
