@@ -6,6 +6,7 @@ body{
 .header {
   margin: auto;
   text-shadow: black;
+  text-align: center;
 }
 .endnotes{
     position: relative;
