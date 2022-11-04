@@ -5,6 +5,7 @@ body{
 }
 .mxgraph{
     position: fixed;
+    text-align: center;
 }
 
 .footer {
