@@ -4,7 +4,9 @@ body{
     height:auto;
 }
 
-
+.endnotes{
+    position: relative;
+}
 .footer {
    position: fixed;
    left:auto;
