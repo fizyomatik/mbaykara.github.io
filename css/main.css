@@ -4,12 +4,12 @@ body{
     height:auto;
 }
 .mxgraph{
-    text-align: center;
+    position: relative;
 }
 
 .footer {
    position: fixed;
-   left: 0;
+   left:auto;
    bottom: 0;
    width: 100%;
    height: min-content;
