@@ -11,7 +11,8 @@ body{
 .endnotes{
     position: relative;
     margin: auto;
-    size: 5px;
+    height: auto;
+    size: 20px;
 }
 .footer {
    position: fixed;
