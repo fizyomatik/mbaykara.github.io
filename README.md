@@ -1,2 +1,2 @@
-# mbaykara.github.io
-Your Ultimate Cloud Native Guide
+# Your Ultimate Cloud Native Guide
+Feel free to addjust/modify it.
