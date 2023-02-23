@@ -23,11 +23,6 @@ site_name: Infrastructure Engineering
 site_url: https://squidfunk.github.io/mkdocs-material/
 site_description: >-
   Technical documentation about Infra
-# Repository
-# repo_name: squidfunk/mkdocs-material
-# repo_url: https://github.com/squidfunk/mkdocs-material
-# edit_uri: ""
-
 # Copyright
 copyright: Copyright &copy; mbaykara
 
@@ -64,8 +59,7 @@ theme:
 
 # Plugins
 plugins:
-  - mermaid2:
-      version: 8.6.4
+  - mermaid2
   - render_swagger
   - search
   - markdownextradata:
