@@ -18,6 +18,6 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install mkdocs-material mkdocs-mermaid2-plugin mkdocs-swagger-plugin 
+      - run: pip install mkdocs-material mkdocs-mermaid2-plugin mkdocs-swagger-plugin git+https://github.com/andyoakley/mkdocs-fastsearch
       - run: mkdocs gh-deploy --force
 
