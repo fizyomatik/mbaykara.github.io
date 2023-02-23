@@ -1,2 +1,2 @@
-# Your Ultimate Cloud Native Guide
+# Your Ultimate Cloud Native
 Feel free to addjust/modify it.
