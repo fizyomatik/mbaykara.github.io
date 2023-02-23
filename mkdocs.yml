@@ -19,11 +19,10 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Frontline DevOpsDocs
+site_name: Infrastructure Engineering
 site_url: https://squidfunk.github.io/mkdocs-material/
 site_description: >-
-  Technical documentation about Frontline cloud services, CI/CD & Infrastructure. The articles you can find here illustrate internals about our cloud offeringes and infastructure and are <b>FOR INTERNAL USE ONLY</b>.
-  If you are looking for information for partners or customers please refer to the official Frontline docs portal formally known as partner portal.
+  Technical documentation about Infra
 # Repository
 # repo_name: squidfunk/mkdocs-material
 # repo_url: https://github.com/squidfunk/mkdocs-material
