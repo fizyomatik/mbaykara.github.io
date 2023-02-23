@@ -61,7 +61,6 @@ theme:
 plugins:
   - mermaid2:
       version: 8.6.4
-  - search
   - markdownextradata:
       jinja_options:
         variable_start_string: "{%{"
